@@ -1,4 +1,4 @@
-# My Agent Studio
+# My Agent Studio - Version 2
 
 Crie agentes de IA como você cria personagens.
 
