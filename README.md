@@ -6,6 +6,10 @@ Configure identidade, propósito, personalidade, regras, ferramentas e memória 
 uma interface visual — e leve o resultado como Markdown pronto para usar no
 Claude Code ou em qualquer outra ferramenta de agentes.
 
+## Como excetuar está aplicação na WEB
+
+[click aqui(https://aridiosilva.github.io/my-agent-studio)]
+
 ## O que é
 
 Um aplicativo **100% estático**: HTML, CSS e JavaScript servidos como estão.
