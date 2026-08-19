@@ -6,9 +6,9 @@ Configure identidade, propósito, personalidade, regras, ferramentas e memória 
 uma interface visual — e leve o resultado como Markdown pronto para usar no
 Claude Code ou em qualquer outra ferramenta de agentes.
 
-## Como excetuar está aplicação na WEB
+## Como executar esta aplicação na WEB
 
-[click aqui(https://aridiosilva.github.io/my-agent-studio)]
+clique no link: **[https://aridiosilva.github.io/my-agent-studio]**
 
 ## O que é
 
@@ -46,7 +46,7 @@ git push
 ```
 
 O site está publicado em
-**https://felipeaguiarcode.github.io/my-agent-studio/**, servido diretamente da
+**[https://aridiosilva.github.io/my-agent-studio]**, servido diretamente da
 branch `main` (*Settings → Pages → Deploy from a branch* → `main` → `/ (root)`).
 
 O arquivo `.nojekyll` já está no repositório. O roteamento usa hash
